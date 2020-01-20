@@ -1,5 +1,5 @@
 /**
-* Sclera - Tests
+* Sclera - SQL Tests Parser
 * Copyright 2012 - 2020 Sclera, Inc.
 * 
 * Licensed under the Apache License, Version 2.0 (the "License");
