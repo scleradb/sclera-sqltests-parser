@@ -4,6 +4,8 @@ description := "SQL Tests Parser"
 
 version := "4.0-SNAPSHOT"
 
+homepage := Some(url("https://github.com/scleradb/sclera-sqltests-parser"))
+
 organization := "com.scleradb"
 
 organizationName := "Sclera, Inc."
