@@ -24,7 +24,6 @@ import scala.util.parsing.input.{StreamReader, Reader, Position}
 
 import scala.util.parsing.combinator.RegexParsers
 
-private[scleradb]
 object SqlTestParser extends RegexParsers {
     override def skipWhitespace: Boolean = false
 
