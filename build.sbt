@@ -11,7 +11,7 @@ scmInfo := Some(
     )
 )
 
-version := "4.0-SNAPSHOT"
+version := "4.0"
 
 startYear := Some(2012)
 
